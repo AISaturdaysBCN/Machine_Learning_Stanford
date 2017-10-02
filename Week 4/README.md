@@ -1,0 +1,1 @@
+本周主要讲了神经网络的前向传播，如果学过deeplearning.ai的话这一周和下一周都不用听，感觉也没有deeplearning.ai那里讲的好。
