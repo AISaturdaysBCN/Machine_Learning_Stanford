@@ -18,6 +18,10 @@ Multiclass Classification
 #### Week 4 Neural Networks: Representation
 Neural Networks  
 Applications  
+#### Week 4 Neural Networks: Learning
+Cost Function and Backpropagation  
+Backpropagation in Practice  
+Application of Neural Networks  
 
 努力学习中...  
 
