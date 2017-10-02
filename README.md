@@ -2,16 +2,22 @@
 This is a records of Machine Learning Course of Andrew Ng on Coursera  
 
 # 课程目录
-## Week 1 Introduction  
-Linear Regression with One Variable  
+#### Week 1 Introduction  
+Linear Regression with One Variable  
 Model and Cost Function  
 Linear Algebra Review  
-## Week 2 Linear Regression with Multiple Variables  
+#### Week 2 Linear Regression with Multiple Variables  
 Environment Setup Instructions  
 Multivariate Linear Regression  
 Computing Parameters Analytically  
 Submitting Programming Assignments  
-## Week 3 Logistic Regression  
+#### Week 3 Logistic Regression  
+Classification and Representation
+Logistic Regression Model
+Multiclass Classification  
+#### Week 4 Neural Networks: Representation
+Neural Networks  
+Applications  
 
 努力学习中...  
 
