@@ -29,6 +29,9 @@ Bias vs. Variance
 Large Margin Classification  
 Kernels  
 SVMs in Practice  
+#### Week 8 Unsupervised Learning  
+Clustering  
+Dimensionality Reduction  
 
 努力学习中...  
 
@@ -45,5 +48,5 @@ SVMs in Practice
 | 缺点   |需要人工选择学习率   |  算法复杂   |  
 #### Week 7
 3. 第七周感觉是目前最有意思的一周，试验了邮件垃圾分类，如果之前没做过会感觉挺有意思。实验中的方法也很方面做一些扩展和优化，自己做个demo还是可以的。
-
-
+#### Week 8
+4. 第八周是关于无监督学习，讲了K-means聚类和PCA。Andrew建议不要用PCA进行过拟合处理，过拟合的话还是用正则及其他方法。
