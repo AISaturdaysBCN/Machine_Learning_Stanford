@@ -1,0 +1,1 @@
+本周主要是关于Anomaly Detection和Recommend System,关于前者建议看一下Dual的《模式分类》关于贝叶斯分类的章节，可能就更明白其背后的数学机制
