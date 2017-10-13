@@ -64,3 +64,5 @@ Low Rank Matrix Factorization
 
 7. Anomaly Detection和Supervised Learning的区别  
 ![image](https://github.com/JudasDie/Machine_Learning_Stanford/raw/master/images/Anomaly.png) 
+
+##### 课程已经修完了，如果仓库里代码对你有用请不要吝啬点个小星星哦
